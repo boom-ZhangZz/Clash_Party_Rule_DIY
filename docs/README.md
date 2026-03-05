@@ -1,7 +1,5 @@
 <div align="center">
     <img width="400" src="img/slogan.jpg" alt="logo"><br>
-
-# 闲鱼二手99新女生自用 Clash 规则
 </div>
 
 <img decoding="async" align=right src="img/laoshu.gif" width="35%">
