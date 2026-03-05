@@ -1,8 +1,4 @@
-<div align="center">
-    <img width="400" src="img/slogan.jpg" alt="logo"><br>
-</div>
 
-<img decoding="async" align=right src="img/laoshu.gif" width="35%">
 
 - 基于 mimoho 内核 1.8.10 版本，理论支持绝大部分第三方 mihomo gui 客户端
 
